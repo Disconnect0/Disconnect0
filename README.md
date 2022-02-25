@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Disconnect0
 - 👀 I’m interested in Developing
-- 🌱 I’m currently learning Python and Javascript
+- 🌱 I’m currently learning Python, C, and, Javascript
 - 💞️ I’m looking to collaborate on Machine Learing and APIs
 
 <!---
